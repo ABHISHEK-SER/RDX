@@ -55,7 +55,7 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         if (!!message.mention && message.mention[0] == '919605101516@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/KING AS.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/@+919074692450.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == '919074692450@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/@+919074692450.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
