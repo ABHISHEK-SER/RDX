@@ -28,10 +28,10 @@
   click to fork the git into your account
  Click [FORK](https://github.com/KINGS-AS/RDX/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change PRINCE-SER with your github username and click go<br>
+5. Now https://heroku.com/deploy?template= https://github.com/ABHISHEK-SER/RDX this url and change ABHISHEK SER with your github username and click go<br>
 
 
-6.This method not working click [Whtsapp Number](https://wa.me/qr/CYBN2KFKQTAIN1) Save my number and massage me 
+6.This method not working click [Whtsapp Number](https://wa.me//+919074692450) Save my number and massage me 
 
 ------
 
