@@ -20,13 +20,13 @@ module.exports = {
     SESSION: process.env.CONNECTION_CODE === undefined ? '' : process.env.CONNECTION_CODE,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     AUTOBİO: process.env.AUTO_BİO === undefined ? 'false' : process.env.AUTO_BİO,
-    AFN: process.env.ALL_CAPTION === undefined ? 'Made By RDX' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'Made By ABHISHEK SER' : process.env.ALL_CAPTION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     AUTOSTICKER: process.env.AUTO_STICKER === undefined ? 'true' : process.env.AUTO_STICKER,
-    PLK: process.env.OWNER_NAME === undefined ? 'KING-AS' : process.env.OWNER_NAME,
+    PLK: process.env.OWNER_NAME === undefined ? 'ABHISHEK SER' : process.env.OWNER_NAME,
     FULLEVA: process.env.FULL_EVA === undefined ? 'false' : process.env.FULL_EVA,
     BOT_PRESENCE: process.env.BOT_PRESENCE === undefined ? 'online' : process.env.BOT_PRESENCE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
@@ -69,5 +69,5 @@ module.exports = {
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
     SUPPORT: "919946432377-1627138839",
     SUPPORT2: "919074309534-1632403322",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT3: "+919074692450-+918086993101"
 };
