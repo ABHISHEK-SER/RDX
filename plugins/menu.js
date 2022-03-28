@@ -1,8 +1,8 @@
-/* Copyright (C) 2021 RDXBOT.
+/* Copyright (C) 2021 ABHISHEK SER.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Abhiram Sachu
-Wa.me/+917736771516
+ABHISHEK SURESH
+Wa.me/+919074692450
 */
 
 const rdxbot = require('../events');
@@ -25,11 +25,11 @@ rdxbot.addCommand({pattern: 'menu', fromMe: false, dontAddCommandList: true}, (a
          {title: 'sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs', description: "\n\n🔰ᴄᴏᴍᴍᴀɴᴅ→```.sᴛɪᴄᴋᴇʀ```\n♦️ᴜsᴇ→ ᴄᴏɴᴠᴇʀᴛs ɪᴍɢ/ɢɪғ ɪɴᴛᴏ ᴀ sᴛɪᴄᴋᴇʀ.\n\n🔰ᴄᴏᴍᴍᴀɴᴅ→```.ᴘʜᴏᴛᴏ```\n♦️ᴜsᴇ→ ᴄᴏɴᴠᴇʀᴛs sᴛɪᴄᴋᴇʀ ɪɴᴛᴏ ɪᴍᴀɢᴇ.\n\n🔰ᴄᴏᴍᴍᴀɴᴅ→```.ᴀᴛᴛᴘ``` ᴛᴇxᴛ\n♦️ᴜsᴇ→ ᴄᴏɴᴠᴇʀᴛs ᴛᴇxᴛ ɪɴᴛᴏ ɢʟᴏᴡɪɴɢ sᴛɪᴄᴋᴇʀ.\n⚠️Example ```.attp``` RDX BOT\n\n\n\n\©ʀᴅx ʙᴏᴛ\n\n", rowId:"rowid3"},
         ]
        
-       const sections = [{title: "KING AS", rows: rows}]
+       const sections = [{title: "ABHISHEK SER", rows: rows}]
        
        const button = {
         buttonText: '♦ᴄʟɪᴄᴋ ʜᴇʀᴇ♦',
-        description: "𝚁𝙳𝚇 𝙱𝙾𝚃\n\nMENU MASSAGE\n\n\n©ʀᴅx ʙᴏᴛ",
+        description: "ABHISHEK SER\n\nMENU MASSAGE\n\n\n©ABHISHEK SER",
         sections: sections,
         listType: 1
        }
